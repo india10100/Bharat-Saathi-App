@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bharatsaathi.app",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:FC:0E:65:F4:71:B4:4D:21:28:9B:4C:64:12:35:E4:39:1A:E7:F4:DF:A6:6E:9A:8B:25"
+      ]
+    }
+  }
+]

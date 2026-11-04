@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Saathi",
+  "description": "Comprehensive Indian civic super-app featuring government openings, bilingual Hindi/English news, job postings, welfare schemes, and citizen services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
